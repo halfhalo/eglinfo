@@ -1,3 +1,3 @@
 LIBS += -lEGL
-QT -= gui core
+QT -= gui core network
 SOURCES += main.cpp
