@@ -1,2 +1,1 @@
-#!/bin/sh
-  qmake-palm -spec ../../qt4-webos-4.8.2.03-1.02-r31.1/qt-build-slate/mkspecs/qws/linux-rock-g++/
+qmake-palm -spec ../../../qt4-webos-4.8.2.03-1.02-r31.1/qt-build-slate/mkspecs/qws/linux-rock-g++/
